@@ -201,10 +201,9 @@ Cross Filter: Single
 ## 👩‍💻 Author
 **Tanishka Saraswat**
 
-- LinkedIn:www.linkedin.com/in/
-tanishka-saraswat
+GitHub: @tanishkasaraswat23
 
-GitHub:@tanishkasaraswat23
+Linkedin:www.linkedin.com/in/ tanishka-saraswat
 
 
 ---
