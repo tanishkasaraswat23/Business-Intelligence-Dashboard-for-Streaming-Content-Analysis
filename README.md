@@ -200,7 +200,7 @@ Cross Filter: Single
 
 ## 👩‍💻 Author
 **Tanishka Saraswat**
-- LinkedIn: @tanishkasaraswat23
+- LinkedIn:tanishka-saraswat
 
 ---
 
